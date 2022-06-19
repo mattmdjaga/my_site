@@ -1,4 +1,4 @@
 module.exports = {
-    publicPath: '/name-of-your-project/'
+    publicPath: '/my_site/'
   }
   
